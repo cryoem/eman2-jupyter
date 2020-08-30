@@ -1,2 +1,2 @@
-#eman2-jupyter/develop/stevel
+# eman2-jupyter/develop/stevel
 Steve Ludtke's development files
